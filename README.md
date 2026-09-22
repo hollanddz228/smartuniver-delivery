@@ -1,4 +1,4 @@
-# SmartUniver — Жобаны басқару және жеткізу моделі (2-ЗЖ)
+﻿# SmartUniver — Жобаны басқару және жеткізу моделі (2-ЗЖ)
 
 > **Пән:** АТ-жобаларды басқару (IT Project Management)  
 > **Зертханалық жұмыс №2:** Жеткізу модельдері: Predictive, Hybrid, Adaptive. Жұмыс кеңістігі және ADR-001.  
@@ -12,7 +12,7 @@
 
 * **Таңдалған жеткізу моделі:** **Гибридті модель (Hybrid: Discovery → Delivery)**
 * **Архитектуралық шешім:** [docs/adr/ADR-001-delivery-model.md](docs/adr/ADR-001-delivery-model.md)
-* **GitHub Projects тақтасы:** [SmartUniver Delivery Board (Жоба сілтемесі)](https://github.com/users/your-username/projects/1)
+* **GitHub Projects тақтасы:** [SmartUniver Delivery Board (Жоба сілтемесі)](https://github.com/users/hollanddz228/projects/4)
 
 ---
 
